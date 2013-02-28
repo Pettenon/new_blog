@@ -1,0 +1,10 @@
+pt:
+  articles:
+    index:
+      title: "Artigos"
+      description: "Seu Site de Gibis"
+  activerecord:
+    attributes:
+      article:
+        name: "Heroi/Gibi"
+        content: "Conteudo"
